@@ -48,7 +48,7 @@
 			"static_attrs"
 			{
 				"min_viewmodel_offset"		"10 0 -9"
-				"attach particle effect"	"2"
+				"attach particle effect"	"3200"
 			}
 			"visuals"
 			{
@@ -92,7 +92,7 @@
 				"maxammo primary reduced"
 				{
 					"attribute_class"	"mult_maxammo_primary"
-					"value"	"0.5"
+					"value"	"0.75"
 				}
 				"crit mod disabled"
 				{
@@ -147,7 +147,7 @@
 			"static_attrs"
 			{
 				"min_viewmodel_offset"		"10 0 -9"
-				"attach particle effect"	"2"
+				"attach particle effect"	"3200"
 			}
 			"visuals"
 			{
@@ -191,7 +191,7 @@
 				"maxammo primary reduced"
 				{
 					"attribute_class"	"mult_maxammo_primary"
-					"value"	"0.5"
+					"value"	"0.75"
 				}
 				"crit mod disabled"
 				{
