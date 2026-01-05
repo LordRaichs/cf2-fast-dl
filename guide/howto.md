@@ -8,7 +8,7 @@
 ```
 
 ### Now in same folder change items_custom.txt to have another item scheme:
-```json
-#base items_game.txt
-#base items_tachy.jsonl
+```diff
+  #base items_game.txt
++ #base items_tachy.jsonl
 ```
